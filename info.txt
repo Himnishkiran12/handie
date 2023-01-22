@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Sunday-Regular
+font link: http://dimitriana.com/portfolio_page/sunday-font/
+font author: Anastasia Dimitriadi
+font author site: http://dimitriana.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F1DEDA","icon-gradient-0":"#30223A","icon-gradient-1":"#F13800","font":"#250A05","slogan":"#391e19"}
+      

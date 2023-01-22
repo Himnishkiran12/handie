@@ -1,0 +1,81 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: #F1DEDA;
+  background-size:cover ;
+  font-family: 'Merienda', cursive;
+}
+#handie{
+  width: 100px;
+  height: 100px;
+  margin-left: -1200px;
+  margin-bottom: -300px;
+}
+
+#button {
+  padding: 5px 15px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #fd5656;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+#button:hover {background-color: #ff0000}
+#button:active {
+  background-color: #8e3e3e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#butt {
+  padding: 5px 15px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #413dff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+#butt:hover {background-color: #0004ff}
+#butt:active {
+  background-color: #4a3e8e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#head{
+  font-family: 'Fugaz One', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+
+#webcam , #ssnapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  background-color: black;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 48px;
+  border-radius: 30px; 
+}
